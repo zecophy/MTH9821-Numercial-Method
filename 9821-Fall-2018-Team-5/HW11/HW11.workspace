@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="HW11" Database="" Version="10.0.0">
+  <Project Name="HW11_FD" Path="HW11_FD/HW11_FD.project" Active="Yes"/>
+  <Project Name="HW11_Tree" Path="HW11_Tree/HW11_Tree.project" Active="No"/>
+  <Project Name="HW11_MC" Path="HW11_MC/HW11_MC.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="HW11_FD" ConfigName="Debug"/>
+      <Project Name="HW11_Tree" ConfigName="Debug"/>
+      <Project Name="HW11_MC" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="HW11_FD" ConfigName="Release"/>
+      <Project Name="HW11_Tree" ConfigName="Release"/>
+      <Project Name="HW11_MC" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
